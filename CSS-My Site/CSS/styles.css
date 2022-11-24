@@ -132,3 +132,14 @@ span{
   background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
   text-decoration: none;
 }
+
+
+@media only screen and (max-width: 900px) {
+  .mountain-img {
+    width: 90vw
+  }
+
+  .topcloud {
+    left: 0;
+  }
+}
